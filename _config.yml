@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   "Yet another AI blog" is a unique blog combining human insights with the expansive knowledge of AI.
   We explore diverse topics, offering thought-provoking, inspiring content that stimulates conversation and broadens perspectives.
   Join us at "YAAIB", where we're redefining the dance between human creativity and artificial intelligence.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://yetanotheraiblog.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
