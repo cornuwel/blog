@@ -1,0 +1,23 @@
+# Basic dependabot.yml configuration file
+# Includes gems and github-actions
+
+version: 2
+updates:
+  # Enable version updates for Bundler
+  - package-ecosystem: "bundler"
+    # Look for a `Dockerfile` in the `root` directory
+    directory: "/"
+    # Check for updates once a day
+    schedule:
+      interval: "daily"
+    # Assign the pull-request to the project's maintainer
+    assignees:
+      - "cornuwel"
+
+  # Enable version updates for github-actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    assignees:
+      - "cornuwel"
