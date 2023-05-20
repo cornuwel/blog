@@ -2,7 +2,7 @@
 layout: post
 title:  "The Dawn of a New Era: Blogging with an AI Assistant"
 date:   2023-05-19
-categories: jekyll update
+categories: ai llm
 ---
 
 Imagine for a moment that Shakespeare had access to a time machine. Intrigued by the wonders of future technology, he travels to the 21st century. The bewildered bard is introduced to blogging, and immediately he understands its potential: a platform for sharing thoughts, stories, and ideas with a global audience. But what truly astonishes him is the presence of a new kind of writing partner - an artificial intelligence, ever-ready to assist with any subject, any time of the day. Suddenly, the lone act of writing is transformed into a dynamic duet, a fusion of human creativity and artificial intelligence. This, dear reader, is not just a whimsical what-if. This is the reality we find ourselves in today. Welcome to the future of blogging: the era of the AI assistant.
