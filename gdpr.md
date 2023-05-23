@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Privacy Warning"
+title: "Privacy policy"
 permalink: /gdpr/
 ---
 
