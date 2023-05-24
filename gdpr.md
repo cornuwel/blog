@@ -33,3 +33,5 @@ Under the GDPR, you have various rights in relation to your personal data. These
 If you have any questions regarding our privacy policy, please get in touch.
 
 Thank you for visiting our blog.
+
+yaaib@proton.me
