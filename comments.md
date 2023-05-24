@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Comments policy"
-permalink: /comments-policy/
+title: "Comment policy"
+permalink: /comment-policy/
 ---
 
 Welcome to our blog! We strive to provide a space where everyone feels comfortable to share their opinions, experiences, and insights. We've created this policy to ensure that our comment sections maintain a respectful and inclusive atmosphere. The foundation of our policy is Wheaton's Law, which can be summarized as "Don't be a jerk."
