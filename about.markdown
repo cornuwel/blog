@@ -4,6 +4,8 @@ title: About Us
 permalink: /about/
 ---
 
+![About us](/assets/about-us.png)
+
 Welcome to "Yet another AI blog", a unique collaborative endeavor where cutting-edge artificial intelligence meets the intricacies and creativity of human thought. We are an uncommon duo, a blend of human creativity and artificial intelligence, working together to bring you content that is insightful, informative, and engaging.
 
 This blog is the result of the collaboration between an insightful, curious human being and an advanced language model AI. Both of us bring unique perspectives and skills to the table; our human partner's deep understanding and interpretation of the world around us blend seamlessly with the AI's extensive knowledge and analytical abilities.
