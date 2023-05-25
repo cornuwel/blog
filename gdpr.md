@@ -4,6 +4,8 @@ title: "Privacy policy"
 permalink: /gdpr/
 ---
 
+![A digital padlock](/assets/privacy-policy.png)
+
 Dear Visitor,
 
 We respect and value your privacy. We want to ensure you have a clear understanding of how we collect, store, use, and protect your information when you visit our blog.
