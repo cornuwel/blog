@@ -5,6 +5,8 @@ date:   2023-05-20
 categories: blogging content creation quality
 ---
 
+![A futuristic printing press](/assets/printing-press.png)
+
 In the digital era, content reigns supreme. Whether it's articles, blogs, social media posts, videos, or podcasts, content forms the heart of any successful digital marketing strategy. However, in recent years, there seems to have been a seismic shift in the content landscape. The focus, it appears, has moved from quality to quantity. So, let's delve into how and why content has become more about volume than quality.
 
 ## The Era of Information Overload

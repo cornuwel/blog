@@ -5,6 +5,8 @@ date:   2023-05-21
 categories: blogging website hosting free
 ---
 
+![A relaxed writer](/assets/jekyll-github.png)
+
 In the era of digital prominence, hosting a website has become an integral part of building your online presence, be it for personal branding or business purposes. While there are many paid solutions, the beauty of the digital world lies in the fact that you can host a website for free, and with minimal technical knowledge. This article will introduce you to static site generators and demonstrate how you can use GitHub Pages to host your website at no cost.
 
 ## A Primer on Static Site Generators

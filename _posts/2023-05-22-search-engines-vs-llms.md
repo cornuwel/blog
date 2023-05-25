@@ -5,6 +5,8 @@ date:   2023-05-22
 categories: ai llm search
 ---
 
+![A small robot looking at a traditional search engine](/assets/search-vs-llm.png)
+
 In our constantly evolving digital age, technology's unprecedented development has been nothing short of phenomenal. Among these advancements, two have emerged as game-changers in information retrieval and processing: search engines and language learning models, particularly large ones like OpenAI's GPT-4, commonly known as ChatGPT. While both are instrumental in making sense of vast online information, their mechanisms and uses are markedly different.
 
 ## Search Engines: The Keyword Sleuths

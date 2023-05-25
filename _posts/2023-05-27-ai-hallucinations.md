@@ -5,6 +5,8 @@ date:   2023-05-27
 categories: ai hallucinations
 ---
 
+![An AI hallucinating](/assets/ai-hallucinations.png)
+
 In the realm of artificial intelligence (AI), large language models such as GPT-4 are trailblazers in producing human-like text. These models, capable of generating creative responses, can often seem uncannily perceptive and insightful. But like all forms of AI, they are far from infallible. Indeed, one of the more fascinating and troublesome aspects of large language models is a phenomenon known as "hallucination." This post will delve into this peculiar occurrence, unpacking what it means and exploring how it can sometimes lead to these models appearing "confidently wrong".
 
 ## What is Hallucination in the Context of AI?

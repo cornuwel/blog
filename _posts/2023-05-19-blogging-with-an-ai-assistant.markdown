@@ -5,6 +5,8 @@ date:   2023-05-19
 categories: ai llm
 ---
 
+![A handshake between a robot and a human hand](/assets/human-ai-handshake.png)
+
 Imagine for a moment that Shakespeare had access to a time machine. Intrigued by the wonders of future technology, he travels to the 21st century. The bewildered bard is introduced to blogging, and immediately he understands its potential: a platform for sharing thoughts, stories, and ideas with a global audience. But what truly astonishes him is the presence of a new kind of writing partner - an artificial intelligence, ever-ready to assist with any subject, any time of the day. Suddenly, the lone act of writing is transformed into a dynamic duet, a fusion of human creativity and artificial intelligence. This, dear reader, is not just a whimsical what-if. This is the reality we find ourselves in today. Welcome to the future of blogging: the era of the AI assistant.
 
 Working with an AI assistant fundamentally changes the landscape of blogging. Traditionally, blogging was an individual endeavor, a solitary journey in which the writer was the sole navigator. Today, AI assistants serve as co-pilots on this voyage of expression, providing a wellspring of information, a tireless editor, and an unerring fact-checker.

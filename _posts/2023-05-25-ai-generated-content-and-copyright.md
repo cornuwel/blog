@@ -5,6 +5,8 @@ date:   2023-05-25
 categories: ai llm copyright
 ---
 
+![A brain hodling on the the scale of justice](/assets/copyright.png)
+
 Artificial intelligence (AI) is reshaping the way we create and consume content, particularly with AI-assisted writing tools. As these tools become more sophisticated and generate text almost indistinguishable from human-produced content, intriguing questions about copyright and intellectual property rights have started to surface: Who owns the resulting text from AI-assisted writing?
 
 ## The Conventional Copyright Paradigm and its Challenges

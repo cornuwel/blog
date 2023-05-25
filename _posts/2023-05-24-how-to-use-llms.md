@@ -5,6 +5,8 @@ date:   2023-05-24
 categories: ai llm
 ---
 
+![A fututistic representation of someone using a supercomputer](/assets/using-an-llm.png)
+
 Artificial Intelligence (AI) has evolved tremendously over the years and we now have access to more advanced technologies like Language Learning Models (LLMs). This technology can understand and generate human language, helping you with everything from answering your questions, crafting emails or reports, to creative writing and beyond.
 
 One of the best ways to get the most from an LLM like GPT-4 is to know how to communicate with it effectively. Let's dive into how you can formulate and refine your questions, provide the right information, and interact iteratively with the chatbot to obtain the best possible results.

@@ -5,6 +5,8 @@ date:   2023-05-23
 categories: ai llm agi
 ---
 
+![A synthetic brain lording over a book](/assets/llm-vs-agi.png)
+
 As we tread into the territory of advanced technology, buzzwords such as 'Artificial General Intelligence' (AGI) and 'Large Language Models' (LLM) frequently echo through the halls of discourse. For those unacquainted with these terms, there may be confusion, even fear. The vision of AGIs taking over the world, as portrayed by countless sci-fi movies, could cast a daunting shadow. However, it's time to shed light on these concepts, allay those fears, and demonstrate the immense potential and benefits that LLMs can bring to the table.
 
 ## What is AGI?

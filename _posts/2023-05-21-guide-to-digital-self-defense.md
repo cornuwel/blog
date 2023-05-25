@@ -5,6 +5,8 @@ date:   2023-05-21
 categories: online privacy
 ---
 
+![A digital all-seeing eye](/assets/digital-eye.png)
+
 In the digital age, privacy is becoming an increasingly scarce commodity. Whether you're shopping online, browsing social media, or even just checking the news, your actions are monitored, collected, and analyzed. Often, this data is used to create targeted advertising, but it can also be exploited maliciously. With online privacy steadily dwindling, it is essential to take conscious steps to protect your digital footprint. Here are some strategies you can employ to fortify your online privacy.
 
 ## Understand Privacy Policies
