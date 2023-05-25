@@ -5,6 +5,8 @@ date:   2023-05-26
 categories: ai llm gpt4
 ---
 
+![GPT4 Plugins](/assets/gpt4-plugins.png)
+
 In the ever-evolving landscape of artificial intelligence (AI), OpenAI's GPT-4 has emerged as a groundbreaking development. Building upon the success of its predecessor, GPT-4 has introduced a revolutionary feature: plugins. This addition has not only expanded the capabilities of the AI model but has also opened up a world of possibilities for its users. 
 
 ## The Power of Plugins
