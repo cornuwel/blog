@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Art of Collaboration: Writing with AI"
-date:   2023-05-25
+date:   2023-05-28
 categories: ai blog
 ---
 
