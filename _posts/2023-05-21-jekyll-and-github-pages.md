@@ -2,7 +2,7 @@
 layout: post
 title:  "Hosting a Website for Free: Using Jekyll and GitHub Pages"
 date:   2023-05-21
-categories: blogging website hosting free
+tags: blogging website hosting free
 ---
 
 ![A relaxed writer](/assets/jekyll-github.png)

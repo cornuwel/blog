@@ -2,7 +2,7 @@
 layout: post
 title:  "The Dawn of Plugins in GPT-4: A Quantum Leap in AI Capabilities"
 date:   2023-05-26
-categories: ai llm gpt4
+tags: ai llm gpt4
 ---
 
 ![GPT4 Plugins](/assets/gpt4-plugins.png)

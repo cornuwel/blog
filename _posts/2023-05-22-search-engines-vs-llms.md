@@ -2,7 +2,7 @@
 layout: post
 title:  "Search Engines vs. Language Learning Models: Decoding the Key Differences"
 date:   2023-05-22
-categories: ai llm search
+tags: ai llm search
 ---
 
 ![A small robot looking at a traditional search engine](/assets/search-vs-llm.png)

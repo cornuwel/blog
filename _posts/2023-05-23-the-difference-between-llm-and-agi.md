@@ -2,7 +2,7 @@
 layout: post
 title:  "Understanding the Difference: LLMs vs. AGIs - Unmasking the World of Artificial Intelligence"
 date:   2023-05-23
-categories: ai llm agi
+tags: ai llm agi
 ---
 
 ![A synthetic brain lording over a book](/assets/llm-vs-agi.png)

@@ -2,7 +2,7 @@
 layout: post
 title:  "Exploring Ownership and Creativity in AI-Assisted Writing: Who Holds the Copyright?"
 date:   2023-05-25
-categories: ai llm copyright
+tags: ai llm copyright
 ---
 
 ![A brain hodling on the the scale of justice](/assets/copyright.png)

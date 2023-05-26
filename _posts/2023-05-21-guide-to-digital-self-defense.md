@@ -2,7 +2,7 @@
 layout: post
 title:  "Preserving Our Dwindling Online Privacy: A Guide to Digital Self-Defense"
 date:   2023-05-21
-categories: online privacy
+tags: online privacy
 ---
 
 ![A digital all-seeing eye](/assets/digital-eye.png)

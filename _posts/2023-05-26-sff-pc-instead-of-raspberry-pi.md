@@ -2,7 +2,7 @@
 layout: post
 title:  "Circumventing the Raspberry Pi Shortage: Harnessing the Power of Small Form Factor PCs from Dell, Lenovo, or HP for a Greener Future"
 date:   2023-05-26
-categories: sff
+tags: sff
 ---
 
 ![Random electronic components](/assets/sff-vs-pi.png)

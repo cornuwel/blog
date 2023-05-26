@@ -2,7 +2,7 @@
 layout: post
 title:  "Large Language Models, Confident Hallucinations, and the Art of Being Convincingly Wrong"
 date:   2023-05-26
-categories: ai hallucinations
+tags: ai hallucinations
 ---
 
 ![An AI hallucinating](/assets/ai-hallucinations.png)

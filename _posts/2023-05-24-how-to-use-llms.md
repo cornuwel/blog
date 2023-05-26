@@ -2,7 +2,7 @@
 layout: post
 title:  "Maximizing Your Engagement with Language Learning Models (LLMs): A Comprehensive Guide"
 date:   2023-05-24
-categories: ai llm
+tags: ai llm
 ---
 
 ![A fututistic representation of someone using a supercomputer](/assets/using-an-llm.png)

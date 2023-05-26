@@ -2,7 +2,7 @@
 layout: post
 title:  "The Shift in Content Creation: Is it Quantity Over Quality Now?"
 date:   2023-05-20
-categories: blogging content creation quality
+tags: blogging content creation quality
 ---
 
 ![A futuristic printing press](/assets/printing-press.png)

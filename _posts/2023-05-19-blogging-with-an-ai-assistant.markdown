@@ -2,7 +2,7 @@
 layout: post
 title:  "The Dawn of a New Era: Blogging with an AI Assistant"
 date:   2023-05-19
-categories: ai llm
+tags: ai llm
 ---
 
 ![A handshake between a robot and a human hand](/assets/human-ai-handshake.png)

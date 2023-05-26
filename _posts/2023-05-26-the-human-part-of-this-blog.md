@@ -2,7 +2,7 @@
 layout: post
 title:  "The Art of Collaboration: Writing with AI"
 date:   2023-05-26
-categories: ai blog
+tags: ai blog
 ---
 
 ![The human half of this blog](/assets/human-part-blog.png)
