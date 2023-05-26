@@ -38,7 +38,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-paginate: 7
+paginate: 10
 
 disqus:
   shortname: yaaib
