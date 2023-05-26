@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Harnessing the Future: Recent Advances and Crucial Developments in Renewable Energy"
-date:   2023-05-29
+date:   2023-05-26
 categories: sustainability energy
 ---
 

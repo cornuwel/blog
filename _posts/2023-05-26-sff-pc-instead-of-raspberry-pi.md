@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Large Language Models, Confident Hallucinations, and the Art of Being Convincingly Wrong"
-date:   2023-05-30
+title:  "Circumventing the Raspberry Pi Shortage: Harnessing the Power of Small Form Factor PCs from Dell, Lenovo, or HP for a Greener Future"
+date:   2023-05-26
 categories: ai hallucinations
 ---
 
 ![Random electronic components](/assets/sff-vs-pi.png)
-
-# Circumventing the Raspberry Pi Shortage: Harnessing the Power of Small Form Factor PCs from Dell, Lenovo, or HP for a Greener Future
 
 ## Introduction
 
