@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Optimizing Travel Arrangements in Tech Companies: A Case for Dedicated Personnel"
-date:   2023-06-01
+date:   2023-06-02
 tags: engineering travel optimization
 ---
 
