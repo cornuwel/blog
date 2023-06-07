@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Search Engines vs. Language Learning Models: Decoding the Key Differences"
+title:  "Search Engines vs. Language Learning Models"
+description: "Explore the key differences between search engines and language learning models. Learn how these technologies work and how they can be used to find information online."
 date:   2023-05-22
 tags: ai llm search
 ---

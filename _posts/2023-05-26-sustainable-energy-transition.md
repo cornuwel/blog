@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Harnessing the Future: Recent Advances and Crucial Developments in Renewable Energy"
+title:  "Recent Advances and Crucial Developments in Renewable Energy"
+description: "Discover the latest advancements in renewable energy. Learn about the role of photovoltaics, energy storage, nuclear energy, and smarter grids in the transition to a sustainable future."
 date:   2023-05-26
 tags: sustainability energy
 ---

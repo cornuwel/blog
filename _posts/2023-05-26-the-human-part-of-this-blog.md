@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Art of Collaboration: Writing with AI"
+description: "Explore the process of writing with AI. Learn how to leverage plugins, Midjourney, and GPT-4 to co-author a blog with AI. Join the discussion!"
 date:   2023-05-26
 tags: ai blog
 ---

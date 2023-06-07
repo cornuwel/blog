@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Harnessing the Power of AI in Coding: An Introduction to GitHub Copilot"
+title:  "An Introduction to GitHub Copilot"
 description: "Discover GitHub Copilot, the AI-powered coding assistant. Learn how it's transforming programming, its capabilities, limitations, and potential implications."
 date:   2023-05-31
 tags: ai 'github copilot'

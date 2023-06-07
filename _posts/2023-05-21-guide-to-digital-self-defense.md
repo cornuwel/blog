@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Preserving Our Dwindling Online Privacy: A Guide to Digital Self-Defense"
+title:  "A Guide to Digital Self-Defense"
+description: "Explore the importance of online privacy and learn how to protect your digital footprint. Discover strategies to safeguard your online privacy in this era of dwindling digital anonymity."
 date:   2023-05-21
 tags: online privacy
 ---

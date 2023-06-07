@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Crucial Role of GPUs in Powering AI Assistants and Its Impact on Consumer Supply"
+description: "Explore the role of GPUs in powering AI assistants. Learn about the impact on GPU supply for regular consumers. Join the discussion!"
 date:   2023-05-27
 tags: ai gpu shortage
 ---

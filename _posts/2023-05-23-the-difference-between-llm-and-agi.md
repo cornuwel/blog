@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Understanding the Difference: LLMs vs. AGIs - Unmasking the World of Artificial Intelligence"
+title:  "Understanding the Difference: LLMs vs. AGIs"
+description: "Explore the difference between LLMs and AGIs. Learn how these terms describe different types of AI, one of them being a theoretical concept, and the other one being a reality."
 date:   2023-05-23
 tags: ai llm agi
 ---

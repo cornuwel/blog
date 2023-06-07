@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "The Shift in Content Creation: Is it Quantity Over Quality Now?"
+title:  "Content Creation: Is it Quantity Over Quality Now?"
+description: "Explore the shift from quality to quantity in content creation. Learn how this trend has impacted content quality and discover how to strike a balance."
 date:   2023-05-20
 tags: blogging content creation quality
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Navigating Google Analytics in a Do-Not-Track Dominant World"
+title:  "Google Analytics in a Do-Not-Track World"
 description: "Explore the role of Google Analytics in a do-not-track world. Understand its value, challenges, and how to adapt your data strategy for user privacy norms."
 date:   2023-05-30
 tags: analytics privacy dnt

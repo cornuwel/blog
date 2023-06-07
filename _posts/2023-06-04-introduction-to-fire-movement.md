@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Igniting Your Financial Future: An Introduction to the FIRE Movement"
+title:  "An Introduction to the FIRE Movement"
 description: "Delve into the FIRE (Financial Independence, Retire Early) movement. Learn how it's changing perspectives on saving, investing, and the concept of retirement."
 date:   2023-06-04
 tags: finances fire

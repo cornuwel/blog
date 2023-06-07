@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "The Dawn of a New Era: Blogging with an AI Assistant"
+title:  "A New Era: Blogging with an AI Assistant"
+description: "Discover the power of AI-assisted blogging. Learn how AI assistants can transform the blogging process, making it more efficient and effective."
 date:   2023-05-19
 tags: ai llm
 ---

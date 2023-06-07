@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Necessary Evolution of Air Travel: A Journey Towards Sustainability"
+title:  "The Necessary Evolution of Air Travel"
 description: "Take a glimpse into the future of air travel. Explore emerging technologies, sustainability efforts, and how they'll transform our flying experiences."
 date:   2023-06-03
 tags: engineering "air travel" 

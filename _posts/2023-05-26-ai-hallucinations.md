@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Large Language Models, Confident Hallucinations, and the Art of Being Convincingly Wrong"
+title:  "Large Language Models and the Art of Being Convincingly Wrong"
+description: "Explore the phenomenon of AI hallucinations. Learn how large language models can sometimes generate convincing but incorrect outputs, and how we can mitigate the risk of spreading misinformation."
 date:   2023-05-26
 tags: ai hallucinations
 ---

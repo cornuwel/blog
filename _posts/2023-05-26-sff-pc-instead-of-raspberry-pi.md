@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Circumventing the Raspberry Pi Shortage: Harnessing the Power of Small Form Factor PCs from Dell, Lenovo, or HP for a Greener Future"
+title:  "Circumventing the Raspberry Pi Shortage"
+description: "Discover how small form factor PCs from Dell, Lenovo, or HP can be used as an alternative to Raspberry Pi. Learn how to repurpose these devices and contribute to a more sustainable future."
 date:   2023-05-26
 tags: sff
 ---

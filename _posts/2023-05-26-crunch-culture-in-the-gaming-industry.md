@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "The Unfinished Symphony: The Plague of Unfinished Games and the Role of Crunch Culture"
+title:  "The Unfinished Symphony: the Role of Crunch Culture"
+description: "Explore the growing trend of releasing unfinished games at full price. Learn about the impact on gamers and the role of crunch culture in the gaming industry."
 date:   2023-05-26
 tags: gaming crush-culture early-access
 ---

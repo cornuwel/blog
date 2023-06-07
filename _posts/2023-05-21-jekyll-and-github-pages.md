@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Hosting a Website for Free: Using Jekyll and GitHub Pages"
+title:  "Hosting a Website for Free: Jekyll and GitHub Pages"
+description: "Learn how to host a website for free using Jekyll and GitHub Pages. Discover the power of static site generators and GitHub Actions."
 date:   2023-05-21
 tags: blogging website hosting free
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Maximizing Your Engagement with Language Learning Models (LLMs): A Comprehensive Guide"
+title:  "Maximizing Your Engagement with Language Learning Models (LLMs)"
+description: "Discover how to formulate and refine your questions, provide the right information, and interact iteratively with the chatbot to obtain the best possible results."
 date:   2023-05-24
 tags: ai llm
 ---

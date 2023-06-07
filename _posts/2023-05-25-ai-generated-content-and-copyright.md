@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Exploring Ownership and Creativity in AI-Assisted Writing: Who Holds the Copyright?"
+title:  "Ownership and Creativity in AI-Assisted Writing"
+description: "Discover the complex issues surrounding copyright ownership in AI-assisted writing. Learn about the symbiotic relationship between human creativity and AI capabilities."
 date:   2023-05-25
 tags: ai llm copyright
 ---
