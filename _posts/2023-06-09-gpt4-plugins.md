@@ -2,7 +2,7 @@
 layout: post
 title:  "Unleashing the Power of GPT-4: Our favourite Plugins"
 description: "Explore the power of GPT-4 plugins! From automating tasks with Zapier to accessing scientific papers with ScholarAI, discover how plugins enhance AI."
-date:   2023-06-07
+date:   2023-06-09
 tags: ai llm gpt4 plugins
 ---
 
