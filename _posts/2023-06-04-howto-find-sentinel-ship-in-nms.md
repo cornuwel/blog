@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to Find Sentinel Ships in No Man's Sky, The Legit Way"
+description: "Master the art of finding Sentinel Ships in No Man's Sky. This guide offers tips, strategies, and locations to help you navigate the cosmos with ease."
 date:   2023-06-04
 tags: nms howto sentinel ships
 ---

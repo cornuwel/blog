@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Role of AI in Climate Change: A Solution or a Contributor?"
+description: "Dive into the intersection of AI and climate change. Discover how AI technologies can both contribute to and help mitigate global warming. Join the discussion!"
 date:   2023-06-08
 tags: ai sustainability climate
 ---

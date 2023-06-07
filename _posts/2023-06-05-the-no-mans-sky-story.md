@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "No Man's Sky: From Catastrophe to Comeback"
+description: "Embark on the journey of No Man's Sky, from its ambitious launch to its redemption story. Explore the game's evolution and its impact on the gaming industry."
 date:   2023-06-05
 tags: gaming pre-orders "no man's sky"
 ---

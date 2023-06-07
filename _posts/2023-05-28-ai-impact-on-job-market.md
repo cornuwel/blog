@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Impact of AI Assistants on the Job Market: Evolution, Risk, and Creation"
+description: "Uncover the implications of AI on the job market. Understand how AI is reshaping employment, creating new roles, and the skills needed for the AI era."
 date:   2023-05-28
 tags: ai jobs
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Optimizing Travel Arrangements in Tech Companies: A Case for Dedicated Personnel"
+description: "Explore the benefits of dedicated personnel for optimizing travel arrangements in tech companies. Discover how it can boost efficiency and employee satisfaction."
 date:   2023-06-02
 tags: engineering travel optimization
 ---

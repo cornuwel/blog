@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Clearing the Air: The Impact of CO2 Concentration on Cognitive Function and How to Improve Indoor Air Quality"
+description: "Uncover the hidden impact of indoor CO2 levels on cognitive abilities. Learn how air quality in your home or office might be affecting your brain performance."
 date:   2023-06-07
 tags: air quality co2 iq
 ---

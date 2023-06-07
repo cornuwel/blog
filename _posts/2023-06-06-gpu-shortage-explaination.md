@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Perfect Storm: Unpacking the Current Consumer GPU Shortage"
+description: "Explore the ongoing GPU shortage: its causes, impacts on gamers & tech industry, and potential solutions. Uncover the role of crypto mining & global supply chain issues."
 date:   2023-06-06
 tags: gpu-shortage cryptomining ai gaming 
 ---

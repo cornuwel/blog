@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Ethical Implications of AI: Bias, Privacy, and Beyond"
+description: "Dive into the ethical considerations of AI. Explore the balance between innovation and responsibility, and the role of ethics in shaping AI's future."
 date:   2023-06-01
 tags: ai ethics bias privacy
 ---

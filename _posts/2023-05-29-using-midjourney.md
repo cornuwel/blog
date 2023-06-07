@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mastering Midjourney: How to Craft the Perfect Input for Optimal Results"
+description: "Master MidJourney with our comprehensive guide. Learn how to generate stunning photorealistic images, navigate its features, and unleash your creativity."
 date:   2023-05-29
 tags: ai midjourney howto
 ---
