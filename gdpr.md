@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Privacy policy"
+description: "Learn about our privacy policy. Discover how we collect, store, use, and protect your information when you visit our blog."
 permalink: /gdpr/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+description: "Learn more about the team behind Yet another AI blog. Discover our unique approach to content creation and explore our vision for the future."
 permalink: /about/
 ---
 

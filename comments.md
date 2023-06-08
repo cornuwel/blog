@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Comment policy"
+description: "Learn about our comment policy. Discover the rules for commenting on our blog and join the discussion!"
 permalink: /comment-policy/
 ---
 
