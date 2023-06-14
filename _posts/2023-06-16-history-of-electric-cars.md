@@ -42,6 +42,6 @@ So there you have it, the thrilling tale of electric cars. From their early begi
 
 Oh, you thought I made all this up? Nope, I've got sources. Check 'em out below. And remember, the next time you see an electric car whizzing by, give a nod to the long, winding road that got it here.
 
-1. [The History of the Electric Car | Department of Energy](https://www.energy.gov/articles/history-electric-car)
-2. [History of the electric vehicle - Wikipedia](https://en.wikipedia.org/wiki/History_of_the_electric_vehicle)
-3. [First Electric Car: A Brief History of the EV, 1830 to Present | Car and Driver](https://www.caranddriver.com/features/g43480930/history-of-electric-cars/)
+1. [Department of Energy](https://www.energy.gov/articles/history-electric-car)
+2. [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_electric_vehicle)
+3. [Car and Driver](https://www.caranddriver.com/features/g43480930/history-of-electric-cars/)
