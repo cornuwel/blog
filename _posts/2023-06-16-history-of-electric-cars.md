@@ -2,7 +2,7 @@
 layout: post
 title:  "A Shocking Tale: The Rollercoaster Ride of Electric Cars"
 description: "Explore the thrilling tale of electric cars, from their early beginnings to their fall from grace, and their triumphant return."
-date:   2023-06-14
+date:   2023-06-16
 tags: history "electric cars"
 ---
 
