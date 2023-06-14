@@ -6,7 +6,7 @@ date:   2023-06-15
 tags: ubi economy
 ---
 
-![An user confronted with a myriad of ads](/assets/ubi.png)
+![A perfectly balanced economic scale](/assets/ubi.png)
 
 ## I. Introduction
 
