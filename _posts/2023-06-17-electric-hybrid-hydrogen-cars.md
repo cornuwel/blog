@@ -1,45 +1,44 @@
 ---
 layout: post
-title:  "Why Fully Electric Cars are the Future, Not Hybrids or Hydrogen"
-description: "Explore the pros and cons of electric cars, hybrids, and hydrogen cars, and find out why fully electric cars are the future."
+title:  "The Hydrogen Car Hype: A Closer Look at its Inefficiencies and Complexities"
+description: "Explore the hype around hydrogen cars and why they might not be as shiny as they seem."
 date:   2023-06-17
-tags: cars electric hydrogen hybrids
+tags: cars electric hydrogen 
 ---
 
-![An electric car charging](/assets/car-charging.png)
+![A futuristic hydrogen car](/assets/hydrogen-cars.png)
+
+# The Hydrogen Car Hype: A Closer Look at its Inefficiencies and Complexities
 
 ## I. Introduction
 
-Hello, dear reader! Welcome to the future, where cars are silent, exhaust fumes are a thing of the past, and charging your car is as easy as charging your phone. Yes, we're talking about electric cars. But wait, what about hybrids and hydrogen cars, you ask? Well, let's dive into the rabbit hole of why those are just detours on the road to a fully electric future.
+Hello, dear reader! Buckle up, because we're about to embark on a journey into the world of hydrogen cars. Now, you might be thinking, "Hydrogen cars? Aren't those the future?" Well, let's just say the future might not be as shiny as it seems.
 
-## II. Understanding the Different Types of Green Vehicles
+## II. The Inefficiency of Hydrogen Production
 
-So, we've got three contenders in the green car arena: fully electric cars, hybrids, and hydrogen cars. Each one promising to save the planet in its own special way. But as we'll see, some are more special than others.
+Let's start with the production process. Hydrogen might be the most abundant element in the universe, but getting it into a usable form for cars is no walk in the park. It's like trying to catch a greased pig at a county fair - messy, difficult, and you'll probably lose some dignity along the way.
 
-## III. The Case Against Hybrids
+The most common method of hydrogen production is through electrolysis, which is about as energy-efficient as a leaky bucket is at holding water[^1^]. And here's the kicker: most hydrogen production comes from fossil fuels[^2^]. So much for being "green."
 
-Hybrids, the Frankenstein's monsters of the car world. They're like that indecisive friend who can't decide whether they want to be powered by gasoline or electricity, so they choose both. Sure, it sounds like a good compromise, but all that complexity just leads to more things that can go wrong. And when things go wrong, guess who's footing the bill? That's right, you, the owner. So, while hybrids might seem like a clever middle ground, they're really just a stepping stone to something better. 
+## III. Side-by-Side Comparison: Hydrogen vs. Lithium Batteries
 
-## IV. The Case Against Hydrogen Cars
+Now, let's compare this to our good friend, the lithium battery. The energy required to produce, store, and convert hydrogen in fuel cells is like running a marathon, while lithium batteries are casually jogging a 5k[^3^]. Plus, lithium batteries don't have to deal with the energy loss that hydrogen fuel cells do[^4^].
 
-Now, let's talk about hydrogen cars. They sound so futuristic, don't they? But here's the thing: producing hydrogen is about as efficient as using a sieve to carry water. Not to mention, finding a hydrogen refueling station is like finding a unicorn in the wild. So, while hydrogen cars might sound like a good idea in theory, in practice, they're about as practical as a chocolate teapot.
+## IV. The Complexities of Hydrogen Storage and Delivery
 
-## V. The Case for Fully Electric Cars
+Storing hydrogen is another can of worms. It's like trying to keep a cat in a bathtub - it requires high pressure or low temperatures, and it's always looking for a way to escape[^1^]. And don't get me started on the infrastructure needed for hydrogen delivery. It's costly, limited, and nowhere near as widespread as EV charging stations[^2^].
 
-Enter the hero of our story: the fully electric car. These beauties are as simple as they come. One motor, one battery, zero tailpipe emissions. They're efficient, increasingly affordable, and let's face it, they're pretty cool. Plus, with more and more charging stations popping up, you'll never be far from a top-up.
+## V. Other Challenges and Drawbacks of Hydrogen Cars
 
-## VI. Addressing Common Criticisms of Electric Cars
+Hydrogen fuel cells cost an arm and a leg, there are only a handful of models available, and they're less energy-efficient than EVs[^1^]. Plus, the environmental impact of hydrogen production is nothing to write home about[^2^].
 
-"But what about range anxiety?" I hear you cry. Well, with ranges now comparable to their gas-guzzling counterparts, that's becoming less of an issue. And charging time? Most charging happens at home overnight, so unless you're planning a cross-country road trip every weekend, it's a non-issue. As for battery lifespan, technology is improving all the time, and many manufacturers offer lengthy warranties on their batteries. So, no need to lose sleep over that.
+## VI. Conclusion
 
-## VII. Conclusion
+So, are hydrogen cars the future? Well, unless there's a major breakthrough that defies the laws of physics, it seems like they're more of a detour. For now, it looks like EVs are still leading the race.
 
-So there you have it. Fully electric cars are the future, not because they're perfect, but because they're the best option we have. They're simple, efficient, and let's face it, they're just better. So next time you're in the market for a new car, do yourself a favor and go electric. Your wallet, and the planet, will thank you.
+## VII. References
 
-## VIII. Call to Action
-
-Still not convinced? Why not take one for a spin and see for yourself? You might just find that the future is a lot more fun than you thought (yes, this is a trap: 50% of people who try an electric car buy one in the next year). And while you're at it, why not do a little more digging into the world of electric cars? You might just learn something. After all, knowledge is power, and in this case, it's electric power. 
-
-So, buckle up, and enjoy the ride to a cleaner, greener future. And remember, the next time someone tries to sell you on the idea of a hybrid or hydrogen car, just smile, nod, and kindly remind them that you're not in the market for a chocolate teapot. 
-
-Happy driving, folks!
+1. [The Conversation: Hydrogen cars won't overtake electric vehicles](https://theconversation.com/hydrogen-cars-wont-overtake-electric-vehicles-because-theyre-hampered-by-the-laws-of-science-139899)
+2. [Forbes: Why Are We Still Talking About Hydrogen?](https://www.forbes.com/sites/jamesmorris/2021/02/06/why-are-we-still-talking-about-hydrogen/)
+3. [Electric cars: technical characteristics and environmental impacts](https://dx.doi.org/10.1186/2190-4715-24-14)
+4. [Economic and Environmental Prospects for Battery Electric and Fuel Cell Vehicles: A Review](https://dx.doi.org/10.1002/fuce.201800171)
