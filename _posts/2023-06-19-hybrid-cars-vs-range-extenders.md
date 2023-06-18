@@ -2,7 +2,7 @@
 layout: post
 title:  "Hybrid Vehicles vs. Electric Vehicles with Range Extenders"
 description: "Explore the fundamental differences between hybrid vehicles and electric vehicles with range extenders."
-date:   2023-06-18
+date:   2023-06-19
 tags: hybrid electric range-extenders
 ---
 
