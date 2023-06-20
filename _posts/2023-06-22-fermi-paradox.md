@@ -2,7 +2,7 @@
 layout: post
 title:  "The Fermi Paradox: Where Is Everybody?"
 description: "Explore the Fermi Paradox, potential solutions, and its implications for our understanding of life in the universe."
-date:   2023-06-21
+date:   2023-06-22
 tags: fermi-paradox astronomy
 ---
 
