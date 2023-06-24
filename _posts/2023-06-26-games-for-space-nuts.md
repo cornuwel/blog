@@ -2,7 +2,7 @@
 layout: post
 title:  "Best Games for Space Nuts in 2023"
 description: "Explore the top strategy/management games set in space or futuristic settings that you should be playing in 2023."
-date:   2023-06-24
+date:   2023-06-26
 tags: games space
 ---
 
