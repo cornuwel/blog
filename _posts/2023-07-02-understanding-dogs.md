@@ -2,7 +2,7 @@
 layout: post
 title:  "Woofs, Wags, and Wiggles: Decoding Your Dog's Behavior"
 description: "Explore the language of dogs and learn how to decode your dog's behavior."
-date:   2023-06-29
+date:   2023-07-02
 tags: dogs behavior communication
 ---
 
