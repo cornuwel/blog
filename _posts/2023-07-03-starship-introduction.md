@@ -2,7 +2,7 @@
 layout: post
 title:  "SpaceX's Starship: A Game-Changer for Space Exploration and Mass-to-Orbit Costs"
 description: "Explore the capabilities of SpaceX's Starship and how it could potentially change the dynamics of mass-to-orbit costs and space exploration capabilities."
-date:   2023-06-30
+date:   2023-07-03
 tags: spacex starship
 ---
 
