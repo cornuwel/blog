@@ -2,7 +2,7 @@
 layout: post
 title:  "Navigating the JavaScript Ecosystem"
 description: "A guide to the essential tools and resources for JavaScript developers."
-date:   2023-07-15
+date:   2023-07-17
 tags: javascript
 ---
 
